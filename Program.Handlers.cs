@@ -22,7 +22,7 @@ namespace App
                         break;
                     }
             }
-            return "exit";
+            return "";
         }
 
         static string ReadLineUTF()
